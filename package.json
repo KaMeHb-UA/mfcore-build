@@ -1,5 +1,5 @@
 {
-  "name": "bitcore-build",
+  "name": "mfcore-build",
   "version": "0.10.0",
   "description": "A helper for common tasks to build bitcore modules'",
   "main": "index.js",
